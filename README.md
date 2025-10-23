@@ -98,3 +98,30 @@ Tasks
 
 - Integrate the newsletter sign-up form into the website footer.
 
+## User Story 8: Selected board games displayed on a separate Game Library page (must-have)
+- User Story: As a Board Game Enthusiast, I want to explore a selection of featured board games on the website, so I can discover new games and decide which ones I might be interested in trying or buying.
+
+Acceptance Criteria
+
+- The website has a separate page for the list of board games.
+- The game library page utilises the Bootstrap grid and card components for consistency in layout and responsiveness.
+- Each card states the relevant game title, image, descriptions, number of players and age range.
+ 
+Tasks
+
+- Create a responsive Game Library page featuring a handful of selected games and their relevant details.
+
+
+## User Story 9:  Form to reserve a board game on the Game Library page (should-have)
+- User Story: As a Board Game Enthusiast, I want to reserve a board game from the list of available games, so I can ensure it's available for me when I visit the shop.
+
+Acceptance Criteria
+
+- A reservation form is available on the Game Library page.
+- The user can fill out their selected game, name, contact information, and preferred date for the reservation.
+ 
+Tasks
+
+- Create a reservation form with fields for the user's name, contact information, preferred date and select which game they want to reserve.
+
+
