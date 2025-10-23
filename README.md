@@ -1,4 +1,4 @@
-# Project Planning - User Stories
+# Boardwalk Games - User Stories
 
 ## User Story 1: User friendly navigation and responsive design (must-have)
 - User story: As a First-Time Visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
@@ -123,5 +123,6 @@ Acceptance Criteria
 Tasks
 
 - Create a reservation form with fields for the user's name, contact information, preferred date and select which game they want to reserve.
+
 
 
