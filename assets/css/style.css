@@ -27,6 +27,15 @@ h3 {
     color: var(--highlight-color);
 }
 
+/* Navbar */
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
+
 /* grid visualisation CSS for testing */
 /*.container,
 row {
@@ -38,8 +47,3 @@ row {
     background-color: lightgray;
 }
     */
-
-/* Navbar Styles */
-.navbar {
-    background-color: var(--secondary-color);
-}
