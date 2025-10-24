@@ -28,7 +28,7 @@ h3 {
 }
 
 /* grid visualisation CSS for testing */
-.container,
+/*.container,
 row {
     border: 2px solid black;
 }
@@ -36,4 +36,10 @@ row {
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
+}
+    */
+
+/* Navbar Styles */
+.navbar {
+    background-color: var(--secondary-color);
 }
